@@ -1,0 +1,4 @@
+make a css folder under that paste the font-awesome file and style.css
+rest of files,keep out of the css folder
+Run it
+Thanks
